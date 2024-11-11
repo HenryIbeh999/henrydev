@@ -351,7 +351,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
     padding-bottom: 50px;
     font-size: 2rem;
     background-color: #2b2a2a;
-    width: 100%;
+    
     
    
 
@@ -363,7 +363,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
 
   .service-container{
     background-color: #2b2a2a;
-    padding: 70px;
+    padding: 30px;
   }
 
   .service-container h1{
