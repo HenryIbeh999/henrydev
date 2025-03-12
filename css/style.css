@@ -196,7 +196,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    height: 60%;
+    height: 100%;
     filter: blur(2px);
     filter: brightness(77%);
   }
