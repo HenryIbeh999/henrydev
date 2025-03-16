@@ -286,19 +286,13 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
   }
 /* About Section Style  */
   section.about{
-    width: 60%;
+    width: 100%;
     float: left;
     padding: 70px;
     padding-top: 20px;
   }
 
-  aside.about{
-    width: 40%;
-    float: left;
-    padding-right: 40px;
-    padding-top: 20px;
-  }
-  
+
 
 
   .about h2{
@@ -337,12 +331,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
   }
 
   section img{
-    width: 100%;
-  }
-
-  aside img{
-    height: 400px;
-    margin-bottom: 100px;
+    width: 50%;
   }
 
   /* Services style section */
@@ -353,7 +342,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
     font-size: 2rem;
     background-color: #2b2a2a;
     padding: 70px;
-    padding-left: 40px;
+    padding-left: 20px;
    
   }
 
@@ -363,7 +352,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
 
   .service-container{
     background-color: #2b2a2a;
-    padding: 40px;
+    padding: 70px;
   }
 
   .service-container h1{
