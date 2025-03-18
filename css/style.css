@@ -488,13 +488,11 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
   Footer Style
   --------------------------
   */
-
   .large-footer{
     background: #121212;
-    height: 100vh;
+    height: 60vh;
     margin-top: 140px;
   }
-
 
   .footer-header{
     display: flex;
@@ -1095,6 +1093,11 @@ smaller than Ipad Air */
 
       /* Footer Section */
 
+      .large-footer{
+        background: #121212;
+        height: 100vh;
+        margin-top: 140px;
+      }
 
       .footer-header{
         padding: 8px;
@@ -1161,5 +1164,6 @@ smaller than Ipad Air */
         color: var(--colorprimary);
       }
       
+
 
 }
