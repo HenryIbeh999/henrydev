@@ -491,7 +491,7 @@ background: linear-gradient(270deg,var(--colorsecondary), #ff5e2d);
 
   .large-footer-container{
     background: #121212;
-    height: 55vh;
+    height: 60vh;
   }
   .large-footer{
     margin-top: 140px;
